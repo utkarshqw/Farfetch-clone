@@ -1,0 +1,57 @@
+.NtwoContainer{
+  border: 1px solid #FF2D44;
+  height: 130px;
+}
+.Ntwoicons>img{
+  width: 25px; 
+  margin-left: 20px;
+
+}
+.part1{
+  display: flex;
+
+  padding-right: 10px;
+justify-content: space-between;
+align-items: center;
+height: 50%;
+width: 95%;
+margin: auto;
+/* border:1px solid green */
+
+}
+.part1a{
+  display: flex;
+}
+.part1a > div {
+   margin-right: 15px;
+   padding: 5px;
+   border-radius: 5px;
+}
+.part1a > div:hover{
+  background-color: rgba(128, 128, 128, 0.148);
+  
+
+}
+
+.secondpart{
+  /* border: 1px solid #FF2D44; */
+  height: 50%;
+  width: 95.5%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.secondpart1{
+  display: flex;
+  
+}
+.secondpart1>div{
+  margin-right: 20px;
+}
+.input1{
+  height: 30px;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 3px;
+
+}
