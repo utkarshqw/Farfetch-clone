@@ -1,0 +1,22 @@
+
+
+.lastacont{
+   /* border: 1px solid black; */
+   height: 200px;
+   width: 89%;
+   margin: auto;
+   display: flex;
+   justify-content: space-between;
+   margin-top: 25px;
+
+
+}
+.lastacont>div{
+   border: 1px solid rgba(0, 0, 0, 0.359);
+   height: 60%;
+   width: 30%;
+   
+}
+/* .lastbcont{ */
+    /* border: 1px solid blue; */
+/* } */
