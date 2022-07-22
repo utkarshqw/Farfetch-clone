@@ -1,0 +1,27 @@
+.topbar{
+/* border: 1px solid red; */
+display: flex;
+justify-content: center;
+align-items: center;
+height: 40px;
+background-color: #FF2D44;
+color: white;
+}
+
+.topbar > div {
+margin: 5px;
+}
+
+.topbar >div:nth-child(5)
+{
+  text-decoration: underline;
+}
+.topbar >div:nth-child(1):hover
+{
+  text-decoration: underline;
+}
+.topbar >div:nth-child(3):hover
+{
+  text-decoration: underline;
+  
+}
