@@ -1,0 +1,50 @@
+.onecontainer{
+    /* border: 1px solid red; */
+    height: 37rem;
+    padding: 25px;
+}
+.onec2{
+  width: 92%;
+  height: 100%;
+  /* border: 1px solid #FF2D44; */
+  margin: auto;
+  display: flex;
+}
+.onec2>div>img{
+    height: 100%;
+    width: 100%;
+}
+.onec2 >div:nth-child(1){
+    width: 50%;
+    /* border: 1px solid blue; */
+  }
+.onec2 >div:nth-child(2){
+  width: 50%;  
+  text-align: center;
+  /* border: 1px solid green; */
+  padding-top: 10% ;
+  color:#222222
+  
+}
+
+.onec2 >div:nth-child(2)>button {
+    height: 40px;
+    width: 110px;
+    background-color: white;
+    border: 1px solid #222222;
+    border-radius: 3px ;
+}
+
+.onec2 >div:nth-child(2)> h1 {
+   
+    font-size: 50px;
+    line-height: 25px;
+}
+
+.onec2 >div:nth-child(2)> p {
+   
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 12px;
+}
+
